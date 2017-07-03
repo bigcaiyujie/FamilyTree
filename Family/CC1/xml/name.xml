@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<family>
+<name >
+    <wife>
+        <wife1>夫妻</wife1>
+        <wife1>妻子</wife1>
+        <wife1>夫人</wife1>
+        <wife1>爱人</wife1> 
+        <wife1>太太</wife1>
+    </wife>
+    
+    <son>
+         <son1>儿子</son1>
+         <son1>儿</son1>
+         <son1>大儿子</son1>
+         <son1>小儿子</son1>
+    </son>
+    
+    <daughter>
+         <daughter1>女儿</daughter1>
+         <daughter1>大女儿</daughter1>
+         <daughter1>小女儿</daughter1>
+    </daughter>
+    
+    <mother>
+        <mother1>母亲</mother1>
+    </mother>
+    
+    <father>
+        <father1>父亲</father1>
+    </father>
+    
+    <grandmother>
+        <grandmother1>祖母</grandmother1>
+    </grandmother>
+    
+    <grandfather>
+        <grandfather1>外祖母</grandfather1>
+    </grandfather>
+    
+    <grandson>
+        <grandson1>孙子</grandson1>
+    </grandson>
+    
+    <granddaughter>
+         <granddaughter1>孙女</granddaughter1>
+    </granddaughter>
+    
+    <oldbrother>
+        <olderbrother1>哥哥</olderbrother1>
+    </oldbrother>
+    
+    <youngbrother>
+        <youngbrother1>弟弟</youngbrother1>
+    </youngbrother>
+    
+    <oldsister>
+        <oldsister1>姐姐</oldsister1>
+    </oldsister>
+    
+    <youngsister>
+         <youngsister>妹妹</youngsister>
+    </youngsister>
+ 
+</name>
+</family>

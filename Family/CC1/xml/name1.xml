@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<family>
+<name >
+    <wife>
+        <wife1>夫妻/n</wife1>
+        <wife1>妻子/n</wife1>
+        <wife1>夫人/n</wife1>
+        <wife1>爱人/n</wife1> 
+        <wife1>太太/n</wife1>
+        <wife1>媳妇/n</wife1>
+        <wife1>老伴/n</wife1>
+        <wife1>老婆/n</wife1>
+        <wife1>娘子/n</wife1>
+    </wife>
+    
+    <son>
+         <son1>儿子/n</son1>
+         <son1>儿/n</son1>
+         <son1>大儿子/n</son1>
+         <son1>小儿子/n</son1>
+    </son>
+    
+    <daughter>
+         <daughter1>女儿/n</daughter1>
+         <daughter1>大女儿/n</daughter1>
+         <daughter1>小女儿/n</daughter1>
+         <daughter1>千金/n</daughter1>
+    </daughter>
+    
+    <mother>
+        <mother1>母亲/n</mother1>
+        <mother1>妈妈/n</mother1>
+        <mother1>娘/n</mother1>
+        <mother1>家母/n</mother1>
+    </mother>
+    
+    <father>
+        <father1>父亲/n</father1>
+        <father1>家父/n</father1>
+        <father1>家尊/n</father1>
+        <father1>先父/n</father1>
+    </father>
+    
+    <grandmother>
+        <grandmother1>祖母/n</grandmother1>
+        <grandmother1>奶奶/n</grandmother1>
+        <grandmother1>婆婆/n</grandmother1>
+    </grandmother>
+    
+    <grandfather>
+        <grandfather1>外祖母/n</grandfather1>
+        <grandfather1>公公/n</grandfather1>
+        <grandfather1>爺爺/n</grandfather1>
+    </grandfather>
+    
+    <grandson>
+        <grandson1>孙子/n</grandson1>
+    </grandson>
+    
+    <granddaughter>
+         <granddaughter1>孙女/n</granddaughter1>
+    </granddaughter>
+    
+    <oldbrother>
+        <olderbrother1>哥哥/n</olderbrother1>
+        <olderbrother1>表哥/n</olderbrother1>
+        <olderbrother1>堂哥/n</olderbrother1>
+        <olderbrother1>长兄/n</olderbrother1>
+        <olderbrother1>兄长/n</olderbrother1>
+        <olderbrother1>家兄/n</olderbrother1>
+    </oldbrother>
+    
+    <youngbrother>
+        <youngbrother1>弟弟/n</youngbrother1>
+         <youngbrother1>表弟/n</youngbrother1>
+          <youngbrother1>堂弟/n</youngbrother1>
+        <youngbrother1>胞弟/n</youngbrother1>
+        <youngbrother1>舍弟/n</youngbrother1>
+        <youngbrother1>家弟/n</youngbrother1>
+    </youngbrother>
+    
+    <oldsister>
+        <oldsister1>姐姐/n</oldsister1>
+         <oldsister1>表姐/n</oldsister1>
+          <oldsister1>堂姐/n</oldsister1>
+    </oldsister>
+    
+    <youngsister>
+         <youngsister>妹妹/n</youngsister>
+         <youngsister>舍妹/n</youngsister>
+         <youngsister>表妹/n</youngsister>
+         <youngsister>堂妹/n</youngsister>
+    </youngsister>
+ 
+</name>
+</family>
